@@ -8,9 +8,6 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react(), tailwindcss()],
-    define: {
-      'process.env': env,
-    },
     resolve: {
       alias: {
         '@': path.resolve(__dirname, './src'),
