@@ -43,7 +43,7 @@ const Footer = () => {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-lg font-semibold text-white">Follow Useee</h4>
+            <h4 className="text-lg font-semibold text-white">Follow Use</h4>
             <div className="flex space-x-4">
               <a href="https//facebook.com/firoz.ahmed5678" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-emerald-600 transition-all">
                 <Facebook size={20} />
